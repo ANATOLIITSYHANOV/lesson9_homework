@@ -10,7 +10,7 @@ body{
 header{
     width: 100%;
     height: 880px;
-    background-image: url('../img/header.jpg');
+    background-image: url('../IMG/header.jpg');
     background-repeat: no-repeat;
     position: relative;
 }
@@ -103,7 +103,7 @@ header p:nth-of-type(4){
 #section2 div:nth-of-type(1){
     width: 900px;
     height: 880px;
-    background-image: url('../img/section2fhone.jpg');
+    background-image: url('../IMG/section2fhone.jpg');
     background-position: -50px 0;
 }
 
@@ -128,7 +128,7 @@ header p:nth-of-type(4){
     display: flex;
     flex-direction: column;
     height: 460px;
-    background-image: url('../img/backgsec3.jpg');
+    background-image: url('../IMG/backgsec3.jpg');
     text-align: center;
 }
 
